@@ -1,0 +1,17 @@
+# Built application files and Maven
+target/
+
+# Compiled class files
+*.class
+
+# Log Files
+*.log
+
+# About IntelliJ
+*.iml
+/.idea/
+/out/
+
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
